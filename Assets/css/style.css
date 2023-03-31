@@ -91,15 +91,6 @@ img {
   text-align: left;
 }
 
-.surf{
-  grid-column-start:1 ;
-  grid-column-end: 4;
-}
-
-.led{
-  grid
-}
-
 .resume {
   grid-column: 1 / span 2;
 }
